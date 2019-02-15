@@ -23,7 +23,7 @@
      - VERSIOAMENTO DE CÓDIGO
      - POLÍTICAS DE VERCIONAMENTO: GITLAB
     - REQUISIÇÕES HTTP
-     - MÉTODOS
+     - MÉTODOS HTTP
      - CÓDIGOS HTTP
 2.  PROJETO BACK-END
     - ARQUITETURA DE SOFTWARE
@@ -60,3 +60,21 @@
     - TESTES
     - FILTER E PIPES
     - DIRETIVAS
+4. LINKS ÚTEIS
+    - POO
+        - https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+    - HTML & CSS
+        - https://www.youtube.com/playlist?list=PLInBAd9OZCzydDFvm06EgbPXYylGVcyIL
+    - JAVASCRIPT
+        - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+    - ANGULAR
+        - https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G
+        - https://www.youtube.com/watch?v=2OHbjep_WjQ (Inglês)
+    - SITES DE CURSOS
+        - https://www.alura.com.br/
+        - https://www.udemy.com/
+        - https://www.treinaweb.com.br/
+        - https://www.freecodecamp.org/
+        - https://javascript30.com/
+    - GERAIS
+        - https://www.w3schools.com/ (Inglês)
